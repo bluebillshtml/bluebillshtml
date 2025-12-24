@@ -49,9 +49,6 @@ I also produce high-quality video content on YouTube and showcase creative proje
   <a href="https://youtu.be/2iC8-HiFW2E">
     <img src="https://img.youtube.com/vi/2iC8-HiFW2E/maxresdefault.jpg" width="180" />
   </a>
-  <a href="https://youtu.be/61Y2hVGBWUc">
-    <img src="https://img.youtube.com/vi/61Y2hVGBWUc/maxresdefault.jpg" width="180" />
-  </a>
 </p>
 
 ---
