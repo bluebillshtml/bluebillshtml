@@ -4,30 +4,12 @@ I am a dedicated full-stack developer and creative content creator, passionate a
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bluebillshtml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bluebillshtml) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bluebillshtml) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/bluebillshtml) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bluebillshtml) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bluebillshtml) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bluebillshtml) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCUoefKbWJYp-uHpWj3-BpiQ) 
 
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://yourdomain.com/project-1">
-    <img src="https://via.placeholder.com/320x180?text=Mobile+App" width="220" />
-  </a>
-  <a href="https://yourdomain.com/project-2">
-    <img src="https://via.placeholder.com/320x180?text=Web+Platform" width="220" />
-  </a>
-  <a href="https://yourdomain.com/project-3">
-    <img src="https://via.placeholder.com/320x180?text=Creative+Work" width="220" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Selected projects — full case studies on my site</sub>
-</p>
-
 ### 🌐 Portfolio
 
 I build production-ready web and mobile applications, internal tools, and creative systems end-to-end — from design to deployment.
 
 **Live Portfolio:**  
-👉 https://yourdomain.com
+👉 https://thedigitxllin.com
 
 **Selected Work:**
 - 🚀 **Mobile Apps** — iOS & Android (Swift, Kotlin, React Native)
@@ -57,4 +39,3 @@ I build production-ready web and mobile applications, internal tools, and creati
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bluebillshtml&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
