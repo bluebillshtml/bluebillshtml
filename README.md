@@ -10,7 +10,7 @@
     For example, to get YouTube subscriber count, you might use a service that fetches it and generates a badge.
     For now, these are placeholders: -->
 
-    ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUoefKbWJYp-uHpWj3-BpiQ?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@bluebillshtml)
+[[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUoefKbWJYp-uHpWj3-BpiQ?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@bluebillshtml)
     [![Instagram Followers](https://img.shields.io/badge/Instagram-XXXK%2B-purple?style=flat-square&logo=instagram)](https://www.instagram.com/bluebillshtml/)
     [![GitHub Followers](https://img.shields.io/github/followers/bluebillshtml?label=Follow&style=flat-square)](https://github.com/bluebillshtml)
     [![GitHub Stars](https://img.shields.io/github/stars/bluebillshtml?style=flat-square)](https://github.com/bluebillshtml)
@@ -39,18 +39,14 @@
 
     ## 📺 Latest YouTube Videos
 
-    <!-- You can embed YouTube videos or link to them.
-    For embedding, you'll need to get the embed code from YouTube.
-    For example, a thumbnail could link to the video.
-    Replace with your actual latest videos. -->
+| Thumbnail | Title | Views & Age |
+|-----------|-------|-------------|
+| [![Regretting Computer Science](https://img.youtube.com/vi/Kz7EZykfcwc/0.jpg)](https://youtu.be/Kz7EZykfcwc?si=BPpXmehdoW9M398P) | [Regretting Computer Science](https://youtu.be/Kz7EZykfcwc?si=BPpXmehdoW9M398P) | 27K views • 1 week ago |
+| [![Your Terminal is Boring....](https://img.youtube.com/vi/FbVRztl5nZg/0.jpg)](https://youtu.be/FbVRztl5nZg?si=kEeb36cgGXyCiGow) | [Your Terminal is Boring....](https://youtu.be/FbVRztl5nZg?si=kEeb36cgGXyCiGow) | 18K views • 1 week ago |
+| [![Every Programmer's Favorite...](https://img.youtube.com/vi/DLTlwpTBOB8/0.jpg)](https://youtu.be/DLTlwpTBOB8?si=sKlHI_tCno4NOgpA) | [Every Programmer's Favorite...](https://youtu.be/DLTlwpTBOB8?si=sKlHI_tCno4NOgpA) | 1.1M views • 2 weeks ago |
+| [![I Tried Coding on Every OS...](https://img.youtube.com/vi/2iC8-HiFW2E/0.jpg)](https://youtu.be/2iC8-HiFW2E?si=lDHNGOxMoB01T_6V) | [I Tried Coding on Every OS...](https://youtu.be/2iC8-HiFW2E?si=lDHNGOxMoB01T_6V) | 170K views • 1 month ago |
+| [![Rust Changed How I Code...](https://img.youtube.com/vi/61Y2hVGBWUc/0.jpg)](https://youtu.be/61Y2hVGBWUc?si=Rbd_DBwUMhQD75Aa) | [Rust Changed How I Code...](https://youtu.be/61Y2hVGBWUc?si=Rbd_DBwUMhQD75Aa) | 59K views • 3 weeks ago |
 
-    | Thumbnail | Title | Views & Age |
-    |---|---|---|
-    | [![Video Thumbnail](https://via.placeholder.com/160x90)](https://www.youtube.com/@bluebillshtml) | [Video Title 1](https://www.youtube.com/@bluebillshtml) | X views • Y ago |
-    | [![Video Thumbnail](https://via.placeholder.com/160x90)](https://www.youtube.com/@bluebillshtml) | [Video Title 2](https://www.youtube.com/@bluebillshtml) | X views • Y ago |
-    | [![Video Thumbnail](https://via.placeholder.com/160x90)](https://www.youtube.com/@bluebillshtml) | [Video Title 3](https://www.youtube.com/@bluebillshtml) | X views • Y ago |
-    | [![Video Thumbnail](https://via.placeholder.com/160x90)](https://www.youtube.com/@bluebillshtml) | [Video Title 4](https://www.youtube.com/@bluebillshtml) | X views • Y ago |
-    | [![Video Thumbnail](https://via.placeholder.com/160x90)](https://www.youtube.com/@bluebillshtml) | [Video Title 5](https://www.youtube.com/@bluebillshtml) | X views • Y ago |
 
     ---
 
