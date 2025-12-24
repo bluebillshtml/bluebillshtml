@@ -36,13 +36,14 @@ I also produce high-quality video content on YouTube and showcase creative proje
 
 ## 📺 Latest YouTube Videos
 
-| Thumbnail | Video |
-|---------|-------|
-| [![Video](https://img.youtube.com/vi/Kz7EZykfcwc/hqdefault.jpg)](https://youtu.be/Kz7EZykfcwc) | [Watch on YouTube](https://youtu.be/Kz7EZykfcwc) |
-| [![Video](https://img.youtube.com/vi/FbVRztl5nZg/hqdefault.jpg)](https://youtu.be/FbVRztl5nZg) | [Watch on YouTube](https://youtu.be/FbVRztl5nZg) |
-| [![Video](https://img.youtube.com/vi/DLTlwpTBOB8/hqdefault.jpg)](https://youtu.be/DLTlwpTBOB8) | [Watch on YouTube](https://youtu.be/DLTlwpTBOB8) |
-| [![Video](https://img.youtube.com/vi/2iC8-HiFW2E/hqdefault.jpg)](https://youtu.be/2iC8-HiFW2E) | [Watch on YouTube](https://youtu.be/2iC8-HiFW2E) |
-| [![Video](https://img.youtube.com/vi/61Y2hVGBWUc/hqdefault.jpg)](https://youtu.be/61Y2hVGBWUc) | [Watch on YouTube](https://youtu.be/61Y2hVGBWUc) |
+| Video | Link |
+|------|------|
+| <img src="https://img.youtube.com/vi/Kz7EZykfcwc/hqdefault.jpg" width="120"/> | [Watch on YouTube](https://youtu.be/Kz7EZykfcwc) |
+| <img src="https://img.youtube.com/vi/FbVRztl5nZg/hqdefault.jpg" width="120"/> | [Watch on YouTube](https://youtu.be/FbVRztl5nZg) |
+| <img src="https://img.youtube.com/vi/DLTlwpTBOB8/hqdefault.jpg" width="120"/> | [Watch on YouTube](https://youtu.be/DLTlwpTBOB8) |
+| <img src="https://img.youtube.com/vi/2iC8-HiFW2E/hqdefault.jpg" width="120"/> | [Watch on YouTube](https://youtu.be/2iC8-HiFW2E) |
+| <img src="https://img.youtube.com/vi/61Y2hVGBWUc/hqdefault.jpg" width="120"/> | [Watch on YouTube](https://youtu.be/61Y2hVGBWUc) |
+
 
 ---
 
