@@ -9,7 +9,7 @@ I am a dedicated full-stack developer and creative content creator, passionate a
 I build production-ready web and mobile applications, internal tools, and creative systems end-to-end — from design to deployment.
 
 **Live Portfolio:**  
-👉 https://thedigitxllin.com
+👉 https://thedigitxllink.com
 
 **Selected Work:**
 - 🚀 **Mobile Apps** — iOS & Android (Swift, Kotlin, React Native)
