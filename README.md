@@ -38,16 +38,16 @@ I also produce high-quality video content on YouTube and showcase creative proje
 
 <p align="center">
   <a href="https://youtu.be/Kz7EZykfcwc">
-    <img src="https://img.youtube.com/vi/Kz7EZykfcwc/maxresdefault.jpg" width="180" />
+    <img src="https://img.youtube.com/vi/Kz7EZykfcwc/maxresdefault.jpg" width="200" />
   </a>
   <a href="https://youtu.be/FbVRztl5nZg">
-    <img src="https://img.youtube.com/vi/FbVRztl5nZg/maxresdefault.jpg" width="180" />
+    <img src="https://img.youtube.com/vi/FbVRztl5nZg/maxresdefault.jpg" width="200" />
   </a>
   <a href="https://youtu.be/DLTlwpTBOB8">
-    <img src="https://img.youtube.com/vi/DLTlwpTBOB8/maxresdefault.jpg" width="180" />
+    <img src="https://img.youtube.com/vi/DLTlwpTBOB8/maxresdefault.jpg" width="200" />
   </a>
   <a href="https://youtu.be/2iC8-HiFW2E">
-    <img src="https://img.youtube.com/vi/2iC8-HiFW2E/maxresdefault.jpg" width="180" />
+    <img src="https://img.youtube.com/vi/2iC8-HiFW2E/maxresdefault.jpg" width="200" />
   </a>
 </p>
 
