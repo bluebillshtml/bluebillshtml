@@ -12,7 +12,7 @@ I also produce high-quality video content on YouTube and showcase creative proje
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUoefKbWJYp-uHpWj3-BpiQ?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@bluebillshtml)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCUoefKbWJYp-uHpWj3-BpiQ?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@bluebillshtml)
-[![Instagram Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E4405F&label=Instagram&logo=instagram&query=$.edge_followed_by.count&url=https://instastats.vercel.app/api/bluebillshtml)](https://www.instagram.com/bluebillshtml/)
+[![Instagram](https://img.shields.io/badge/Instagram-@bluebillshtml-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluebillshtml/)
 [![GitHub Followers](https://img.shields.io/github/followers/bluebillshtml?style=for-the-badge&label=Follow&logo=github)](https://github.com/bluebillshtml)
 [![Profile Views](https://komarev.com/ghpvc/?username=bluebillshtml&style=for-the-badge)](https://github.com/bluebillshtml)
 
