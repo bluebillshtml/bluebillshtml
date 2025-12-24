@@ -1,4 +1,4 @@
-# 🏄‍♂️ bluebillshtml
+ m,.# 🏄‍♂️ bluebillshtml
 
 **Digital Craftsman (Developer / Filmmaker / Creator)**
 
@@ -106,13 +106,10 @@ I also produce high-quality video content on YouTube and showcase creative proje
 
 ---
 
-## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bluebillshtml&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bluebillshtml&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
