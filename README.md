@@ -36,23 +36,53 @@ I also produce high-quality video content on YouTube and showcase creative proje
 
 ## 📺 Latest YouTube Videos
 
-<p align="left">
+<p align="center">
   <a href="https://youtu.be/Kz7EZykfcwc">
-    <img src="https://img.youtube.com/vi/Kz7EZykfcwc/hqdefault.jpg" width="140" />
+    <img
+      src="https://img.youtube.com/vi/Kz7EZykfcwc/hqdefault.jpg"
+      width="150"
+      style="border-radius:8px; margin:6px;"
+      alt="YouTube Video"
+    />
   </a>
   <a href="https://youtu.be/FbVRztl5nZg">
-    <img src="https://img.youtube.com/vi/FbVRztl5nZg/hqdefault.jpg" width="140" />
+    <img
+      src="https://img.youtube.com/vi/FbVRztl5nZg/hqdefault.jpg"
+      width="150"
+      style="border-radius:8px; margin:6px;"
+      alt="YouTube Video"
+    />
   </a>
   <a href="https://youtu.be/DLTlwpTBOB8">
-    <img src="https://img.youtube.com/vi/DLTlwpTBOB8/hqdefault.jpg" width="140" />
+    <img
+      src="https://img.youtube.com/vi/DLTlwpTBOB8/hqdefault.jpg"
+      width="150"
+      style="border-radius:8px; margin:6px;"
+      alt="YouTube Video"
+    />
   </a>
   <a href="https://youtu.be/2iC8-HiFW2E">
-    <img src="https://img.youtube.com/vi/2iC8-HiFW2E/hqdefault.jpg" width="140" />
+    <img
+      src="https://img.youtube.com/vi/2iC8-HiFW2E/hqdefault.jpg"
+      width="150"
+      style="border-radius:8px; margin:6px;"
+      alt="YouTube Video"
+    />
   </a>
   <a href="https://youtu.be/61Y2hVGBWUc">
-    <img src="https://img.youtube.com/vi/61Y2hVGBWUc/hqdefault.jpg" width="140" />
+    <img
+      src="https://img.youtube.com/vi/61Y2hVGBWUc/hqdefault.jpg"
+      width="150"
+      style="border-radius:8px; margin:6px;"
+      alt="YouTube Video"
+    />
   </a>
 </p>
+
+<p align="center">
+  <sub>Latest uploads from my YouTube channel</sub>
+</p>
+
 
 
 ---
